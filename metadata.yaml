@@ -1,0 +1,189 @@
+ID: "COMP3017"
+SimilarID: []
+Name: "服务计算"
+CourseProperty:
+  - Major:
+      - Year: "2021_2022"
+        Name: [ "计算机" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
+
+  - Major:
+      - Year: "2019_2020"
+        Name: [ "计算机" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
+
+  - Major:
+      - Year: "2020_2021"
+        Name: [ "计算机", "计算机（第二学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
+
+  - Major:
+      - Year: "2022_2023"
+        Name: [ "计算机" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
+
+  - Major:
+      - Year: "2023_2024"
+        Name: [ "智能强基班", "计算机" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
+
+  - Major:
+      - Year: "2024_2025"
+        Name: [ "计算机", "计算机（第二学士学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "选修"
+    CourseID: "COMP3017"
+    CourseName: "服务计算"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "Participation"
+        Percentage: 5
+      - Name: "Hot topic study journal"
+        Percentage: 15
+      - Name: "Exercises"
+        Percentage: 20
+      - Name: "Final Examination"
+        Percentage: 60
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32.0"
