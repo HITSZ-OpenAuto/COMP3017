@@ -1,4 +1,6 @@
 # COMP3017 - 服务计算
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![Participation5%](https://img.shields.io/badge/Participation-5%25-wheat)
@@ -11,10 +13,16 @@
 - Joanna Siebert
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [2023年春笔记](https://github.com/xuanhao44/Service-Computing)：Service-Computing 课程笔记
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 形式：
 
