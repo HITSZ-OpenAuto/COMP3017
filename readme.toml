@@ -1,12 +1,11 @@
 course_name = "服务计算"
-repo_type = "normal"
 course_code = "COMP3017"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "Joanna Siebert"
-
 
 [[sections]]
 title = "在线资源"

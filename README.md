@@ -10,6 +10,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - Joanna Siebert
 
 ## 在线资源
