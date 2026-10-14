@@ -1,0 +1,167 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814892,
+    "hash": "173f44bec1ab9c34d0c67a2cf8016471046d4b74"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "README.md": {
+    "size": 806,
+    "time": 1791961590,
+    "hash": "e339b3d368246780992522cb396ad61d325513e4"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "notes/2022/discussion/Bama Tea Co Ltd - Chinese tea company_case text.docx": {
+    "size": 24599,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/discussion/Bama Tea Co Ltd - Chinese tea company_complete.docx": {
+    "size": 24986,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/discussion/L_COMP3017_Module5 - case_part 2 text + question.docx": {
+    "size": 63895,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/discussion/L_COMP3017_Module5 - case_part 2 text.docx": {
+    "size": 60159,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/discussion/case study.docx": {
+    "size": 119134,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/discussion/case study.pdf": {
+    "size": 143774,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/project/Module 4 web service tutorial.pdf": {
+    "size": 455420,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "notes/2022/project/Module 4 如何新建JAVA项目.pdf": {
+    "size": 578793,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "readme.toml": {
+    "size": 678,
+    "time": 1791194879,
+    "hash": "0e8ea290b9ef5d6519c27081a713ffa4c1951280"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754240762,
+    "hash": "4fb120d073f035d688f2bd11db81942c8f98d45f"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_REVIEW.pdf": {
+    "size": 2269179,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 04_Mon - BB.pdf": {
+    "size": 997053,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 04_Wed - BB.pdf": {
+    "size": 565633,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 05_Mon - discussion - BB.pdf": {
+    "size": 744475,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 07_Mon - discussion - BB.pdf": {
+    "size": 1024211,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 07_Sat - discussion - BB.pdf": {
+    "size": 1025565,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 07_Sat - prep.pdf": {
+    "size": 1706780,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 07_Wed - discussion - BB.pdf": {
+    "size": 2874534,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 08_Sun - discussion - BB.pdf": {
+    "size": 563823,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 08_Wed - discussion - BB.pdf": {
+    "size": 829267,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 09_Wed - discussion - BB.pdf": {
+    "size": 1000964,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 09_Wed - prep.pdf": {
+    "size": 659041,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 10_Fri - discussion - BB.pdf": {
+    "size": 1396348,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 10_Wed - discussion - BB.pdf": {
+    "size": 1084485,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/COMP3017_Spring2022_week 11_Wed - discussion.pdf": {
+    "size": 193499,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  },
+  "slides/2022_Joanna/group work.pdf": {
+    "size": 174630,
+    "time": 1756080594,
+    "hash": "fcd87a991fb58cf2a86667262d472d26d1c6cc52"
+  }
+}
